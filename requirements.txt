@@ -3,7 +3,6 @@ python-dotenv
 requests
 google-genai
 python-telegram-bot
-google-genai
 gspread
 google-auth
 pydantic
